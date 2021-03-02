@@ -39,4 +39,4 @@ If you don't fancy drawing using code... Too bad!
 
 However, some applications allow one to create art and export it to SVG.
 
-You can use applications [like](https://inkscape.org/) as a starting point.
+You can use applications like [Inkscape](https://inkscape.org/) as a starting point.
